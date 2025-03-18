@@ -4,7 +4,7 @@ import {
     sumPositiveNumbers, 
     groupByParity, 
     findCommonElements 
-  } from './arrayUtils.js';
+  } from './src/arrayUtils.js';
   import fc from 'fast-check';
   
   describe('removeDuplicates', () => {
