@@ -1,4 +1,4 @@
-# HexlexTest
+# HexlexTest (no-babel)
 
 Проект для тестирования функций работы с массивами на JavaScript с использованием Jest и FastCheck.
 
